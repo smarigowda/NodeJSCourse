@@ -1,0 +1,22 @@
+{
+  "name": "nodejscourse",
+  "version": "1.0.0",
+  "description": "for Coursera Server Side Development with NodeJS Course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smarigowda/NodeJSCourse.git"
+  },
+  "author": "Santosh Marigowda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smarigowda/NodeJSCourse/issues"
+  },
+  "homepage": "https://github.com/smarigowda/NodeJSCourse#readme",
+  "dependencies": {
+    "yargs": "4.7.1"
+  }
+}
